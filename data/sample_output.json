@@ -1,0 +1,42 @@
+[
+  {
+    "zpid": "2064142765",
+    "price": 995000,
+    "address": "130 Water St APT 12D, New York, NY 10005",
+    "home_type": null,
+    "zestimate": null,
+    "rent_zestimate": 4470,
+    "beds": 2,
+    "baths": 2.0,
+    "area": 1280,
+    "latitude": 40.7057,
+    "longitude": -74.0073,
+    "broker_name": "Listing by: SERHANT.",
+    "photos": [
+      "https://photos.zillowstatic.com/fp/33578db80c877648aba386c3aa28e042-p_e.jpg"
+    ],
+    "detail_url": "https://www.zillow.com/homedetails/130-Water-St-APT-12D-New-York-NY-10005/2064142765_zpid/",
+    "date_posted": null,
+    "status_text": "Condo for sale"
+  },
+  {
+    "zpid": "3141592653",
+    "price": 3200,
+    "address": "1 Infinite Loop, Cupertino, CA 95014",
+    "home_type": null,
+    "zestimate": 890000,
+    "rent_zestimate": 3000,
+    "beds": 1,
+    "baths": 1.0,
+    "area": 780,
+    "latitude": 37.3317,
+    "longitude": -122.0301,
+    "broker_name": "Listing by: Example Realty",
+    "photos": [
+      "https://photos.zillowstatic.com/fp/placeholder-pi.jpg"
+    ],
+    "detail_url": "https://www.zillow.com/homedetails/1-Infinite-Loop-Cupertino-CA-95014/3141592653_zpid/",
+    "date_posted": null,
+    "status_text": "Apartment for rent"
+  }
+]
