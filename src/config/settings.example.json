@@ -1,0 +1,7 @@
+{
+  "description": "Example configuration for Zillow Search Scraper. You can copy this file and adapt it to your environment.",
+  "input_file": "data/input.sample.json",
+  "output_dir": "data/output",
+  "output_formats": ["json", "csv", "html"],
+  "log_level": "INFO"
+}
