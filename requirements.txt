@@ -1,0 +1,2 @@
+# Zillow Search Scraper uses only the Python standard library.
+# A modern Python 3 interpreter (3.9+) is recommended.
