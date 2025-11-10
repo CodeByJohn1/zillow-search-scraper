@@ -1,0 +1,6 @@
+lon_deg_per_km = 1 / (111.320 * math.cos(math.radians(lat)) or 1e-9)
+
+    delta_lat = radius_km * lat_deg_per_km
+    delta_lon = radius_km * lon_deg_per_km
+
+    return (lat - delta_lat, lon - delta_lon, lat + delta_lat, lon + delta_lon)
